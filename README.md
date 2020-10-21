@@ -1,1 +1,1 @@
-# Web_Tech_LabTask
+# Learning_Web_Technologies_fall_2020-2021_Sec-G
